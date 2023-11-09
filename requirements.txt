@@ -1,5 +1,4 @@
 hopsworks
 gradio==4.1.1
 openai==0.28.1
-sentence-transformers==2.2.2
 jinja2==3.0.3
